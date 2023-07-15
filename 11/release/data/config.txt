@@ -1,0 +1,8 @@
+change_cost 3
+subway_map_file ./data/subway_info.txt
+lastSHA c44ced5f693b6d767e4921cf862e9f9fc17c99be2f44edd98af985897a5df7d2
+cacheFile ./data/subway_all.cache
+cacheRouteStart 良乡大学城北
+version 1.0
+timetable_file ./data/subway_timetable.txt
+ 

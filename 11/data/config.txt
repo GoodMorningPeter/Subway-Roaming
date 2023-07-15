@@ -1,0 +1,12 @@
+change_cost 3
+subway_map_file2 D:\\Github\\subway-roaming-platform\\data\\subway_info.txt
+subway_map_file ../data/subway_info.txt
+lastSHA 73ff6b2afddbd0e7c6d737b1855fcb4da6d1ab48eddc41b3ca2bd4bc1587b1db
+cacheFile2 D:\\Github\\subway-roaming-platform\\data\\subway_all.cache
+cacheFile ../data/subway_all.cache
+cacheRouteStart 良乡大学城北
+version 1.0
+version2 2.0
+timetable_file D:\\Github\\subway-roaming-platform\\data\\subway_timetable.txt
+timetable_file2 ./data/subway_timetable.txt
+ 
