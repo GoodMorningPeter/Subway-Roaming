@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/button">
+        <file alias="buttonimage">257993-16011PJ55276.jpg</file>
+        <file>arrow_right.png</file>
+        <file>arrow_down.png</file>
+        <file>arrow_left.png</file>
+        <file>arrow_up.png</file>
+        <file>add_button.png</file>
+        <file>sub_button.png</file>
+        <file>switch.png</file>
+        <file>lens.png</file>
+        <file>search.png</file>
+        <file>button.jpg</file>
+    </qresource>
+</RCC>
