@@ -1,4 +1,4 @@
-# 结对项目：地铁漫游
+# 软件工程项目：地铁漫游
 
 Contributor: GoodMorningPeter smzzl
 
