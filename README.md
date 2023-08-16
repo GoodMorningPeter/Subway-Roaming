@@ -1,5 +1,7 @@
 # 结对项目：地铁漫游
 
+Contributor: GoodMorningPeter smzzl
+
 ## 零、任务
 
 使用北京地铁交通图，提供地铁换乘服务。
